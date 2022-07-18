@@ -54,7 +54,6 @@ num1 = [7,8,9,10];
 var num2 = [9,10,11,12,13,14,15];
 
 function big(v,i,array){
-    return v>=10;
     console.log(v);
 }
 
